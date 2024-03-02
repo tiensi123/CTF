@@ -1,1 +1,23 @@
-https://same-poet-e47.notion.site/Seri-solve-PortSwigger-Lab-0-10-f2feade0dd604b41aa07bcabfee67814?pvs=4
+- Seri SQL injection
+https://same-poet-e47.notion.site/Seri-solve-PortSwigger-SQL-Injection-f2feade0dd604b41aa07bcabfee67814?pvs=4
+
+- Seri XSS
+https://same-poet-e47.notion.site/Seri-solve-PortSwigger-XSS-ea203372fb5243d99fcd57fcc92e83be?pvs=4
+
+- Seri CSRF
+https://same-poet-e47.notion.site/Seri-solve-PortSwigger-CSRF-4524ca7f1ff64111bb1d16e0e176d76b?pvs=4
+
+- Seri Clickjacking
+https://same-poet-e47.notion.site/Seri-solve-PortSwigger-Clickjacking-2b1f335de4b14668adde7098a29218d4?pvs=4
+
+- Seri CORS
+https://same-poet-e47.notion.site/Seri-solve-PortSwigger-Cross-origin-resource-sharing-CORS-6b5afd7fe2784381a1a63fc34ccb3397?pvs=4
+
+- Seri XXE
+https://same-poet-e47.notion.site/Seri-solve-PortSwigger-XXE-66b40849aa4044f5908e7235e472ab3d?pvs=4
+
+- Seri SSRF
+https://same-poet-e47.notion.site/Seri-solve-PortSwigger-SSRF-2538b55ea61b46e79df3579d64944648?pvs=4
+
+- Seri HTTP request smuggling
+https://same-poet-e47.notion.site/Seri-solve-PortSwigger-HTTP-request-smuggling-5f4242121a6b4a848a2134aaa8069f8c?pvs=4
